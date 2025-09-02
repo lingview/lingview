@@ -10,16 +10,15 @@
 
 <br/>
 
-<!-- 分隔线 -->
 <div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
 
-<!-- 个人介绍 -->
+
 <p align="center">
   <h2>👋 你好，我是 lingview</h2>
 </p>
 
 <p align="center">
-  一位热爱编程与二次元文化的全栈开发者 | 用代码构建世界，用音乐点亮夜晚 🎵
+  一位热爱虚拟世界的的全栈开发者 | 用代码构建世界，用音乐点亮夜晚 🎵
 </p>
 
 
