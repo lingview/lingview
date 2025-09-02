@@ -1,7 +1,7 @@
 <center>
 <div align="left">
 
-<img src="images/tianyi.jpg" width="60" style="border-radius: 50%; box-shadow: 0 0 500px #66ccff;"/>
+<img src="images/tianyi.png" width="60" style="border-radius: 50%; box-shadow: 0 0 500px #66ccff;"/>
  
 </div>
 
@@ -55,6 +55,6 @@
 <br/>
 <br/>
 
-<img src="images/luotianyi.jpg" width="100" style="border-radius: 50%; box-shadow: 0 0 90px #66ccff;"/>
+<img src="images/luotianyi.png" width="100" />
 
 </center>
