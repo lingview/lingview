@@ -1,3 +1,8 @@
+<!-- 顶部波浪分割线 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=80&section=header"/>
+</p>
+
 <div align="left">
   <div align="left">
     <img src="images/tianyi.png" width="60" style="border-radius: 50%; box-shadow: 0 0 8000px #66ccff;"/>
@@ -10,14 +15,6 @@
 
 <br/>
 
-<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
-
-
-
-<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
-
-
-
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lingview&theme=github-compact&hide_border=true&area=true&custom_title=Activity+Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
@@ -27,13 +24,15 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&theme=transparent&hide_border=true&layout=compact&card_width=400&langs_count=6&color=66ccff&bg_color=00000000" alt="Top Languages" />
 </p>
 
-
-<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
+<!-- 波浪分割线 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=80&section=header"/>
+</p>
 
 <p align="center">
-  <h2>🛠 技术栈</h2>
-  <em>专注构建高效、美观的现代 Web 应用</em>
+  🛠 💻 🎨 🚀
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-3.5-green.svg" alt="Spring Boot"/>
@@ -51,11 +50,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
+
+
 <p align="center">
   <strong>💡 小提示：</strong>写代码时听天依的曲子，灵感爆棚！🎧
 </p>
 
-<div style="border-bottom: 1px solid #ccc; margin: 20px 0;"></div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=80&section=header"/>
+</p>
 
 <p align="center">
   <h2>🔗 联系我</h2>
@@ -66,5 +70,13 @@
 <br/>
 
 <p align="center">
+  <img src="images/tianyi1.png" width="100" alt="洛天依" />
   <img src="images/luotianyi.png" width="100" alt="洛天依" />
+  <img src="images/tianyi2.png" width="100" alt="洛天依" />
+
+</p>
+
+<!-- 底部波浪分割线 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=100&section=footer"/>
 </p>
