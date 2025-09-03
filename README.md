@@ -46,17 +46,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=66ccff&icon_color=66ccff&text_color=ffffff" alt="GitHub Stats"/>
     </picture>
 
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333&border_color=e1e4e8" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66ccff&text_color=ffffff" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66ccff&text_color=ffffff" alt="Top Languages"/>
-    </picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66ccff&text_color=ffffff)
   </div>
 
   <br/>
