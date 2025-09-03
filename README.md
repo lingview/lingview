@@ -35,6 +35,10 @@
   🛠 💻 🎨 🚀
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡ 技术栈-66ccff?style=flat&logoColor=white" alt="Tech Stack" height="25"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-3.5-green.svg" alt="Spring Boot"/>
