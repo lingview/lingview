@@ -28,10 +28,8 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&theme=transparent&hide_border=true&layout=compact&card_width=400&langs_count=6&color=66ccff&bg_color=00000000" alt="Top Languages" />
 </p>
 
-<!-- 波浪分割线 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=80&section=header"/>
-</p>
+
+<hr/>
 
 <p align="center">
   🛠 💻 🎨 🚀
@@ -61,9 +59,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=80&section=header"/>
-</p>
+<hr/>
 
 <p align="center">
   <h2>🔗 联系我</h2>
