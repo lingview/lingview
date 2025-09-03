@@ -59,7 +59,6 @@
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lingview&theme=default&hide_border=true&background=ffffff&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=333333&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lingview&theme=tokyonight&hide_border=true&background=0D1117&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=66ccff" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingview&theme=tokyonight&hide_border=true&background=0D1117&stroke=66ccff&ring=66ccff&fire=66ccff&currStreakLabel=66ccff" alt="GitHub Streak"/>
   </picture>
 </div>
 
