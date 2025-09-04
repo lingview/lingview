@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=120&section=header&text=LingView&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="images/header.svg"/>
 </div>
 
 <!-- 个人头像和介绍 -->
@@ -164,5 +164,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=120&section=footer"/>
+  <img src="images/footer.svg"/>
 </div>
