@@ -12,7 +12,7 @@
 
 <!-- 动态打字效果 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=24&pause=1000&color=66CCFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%9F;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5%EF%BC%81;Coding+with+Luo+Tianyi's+melody+%F0%9F%8E%B5;%E5%92%8C%E6%B4%9B%E5%A4%A9%E4%BE%9D%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B%F0%9F%92%99" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=24&pause=1000&color=66CCFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8C%9F;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5%EF%BC%81;Coding+with+Luo+Tianyi's+melody+%F0%9F%8E%B5;%e5%92%8c%e5%a4%a9%e4%be%9d%e4%b8%80%e8%b5%b7%e5%bc%80%e5%8f%91%7e" alt="Typing SVG"/>
 </div>
 
 <br/>
