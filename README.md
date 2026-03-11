@@ -48,9 +48,9 @@
         srcset="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=66ccff&icon_color=66ccff&text_color=ffffff" 
         media="(prefers-color-scheme: dark)" 
       />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&locale=cn" alt="GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=66ccff&icon_color=66ccff&text_color=ffffff" alt="GitHub Stats"/>
     </picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingview&show_icons=true&locale=cn&layout=compact" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=66ccff" alt="GitHub Stats"/>
   </div>
 
   <br/>
