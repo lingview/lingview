@@ -36,21 +36,12 @@
 
 <br/><br/>
 
-  <!-- 统计卡片 - 支持亮色暗色模式 -->
+  <!-- 统计卡片 -->
   <div>
     <!-- GitHub Stats -->
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=66ccff&text_color=333333&border_color=e1e4e8" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-      />
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=66ccff&icon_color=66ccff&text_color=ffffff" 
-        media="(prefers-color-scheme: dark)" 
-      />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=66ccff&icon_color=66ccff&text_color=ffffff" alt="GitHub Stats"/>
-    </picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingview&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=66ccff" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingview&show_icons=true&locale=cn" alt="GitHub Stats"/>
+    <!-- Top Languages -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingview&show_icons=true&locale=cn&layout=compact" alt="Top Languages"/>
   </div>
 
   <br/>
