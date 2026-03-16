@@ -119,11 +119,6 @@
 
   <table align="center">
     <tr>
-      <td>🎵</td>
-      <td><strong>编程BGM</strong></td>
-      <td>天依的曲子</td>
-    </tr>
-    <tr>
       <td>🚀</td>
       <td><strong>学习状态</strong></td>
       <td>持续学习ing......</td>
@@ -138,7 +133,7 @@
   <br/>
 
   <blockquote>
-    <p><em>💡 小秘密：写代码时听天依的曲子，思路特别清晰！🎧✨</em></p>
+    <p><em>快重启！！！</em></p>
   </blockquote>
 </div>
 
